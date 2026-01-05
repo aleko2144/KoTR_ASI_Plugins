@@ -28,12 +28,12 @@ at the window border, then the coefficient is either 1.0 or -1.0. Thus, steering
 * `AlwaysFull`     = 0/1 - on/off always full gas/brake (only works if parameters [MOUSE]->UseForGasBrake = 1 and [MODIFIERS]->UseModKeys = 1).
 
 `[MODIFIERS]`
-* `UseModKeys`  = 0/1 - on/off. replacing modifier keys
+* `UseModKeys`  = 0/1 - on/off replacing modifier keys
 * `ModifierKey` = 0x11 - key code for the gas modifier, brake, headlight switch
 * `SteerModKey` = 0x10 - steering modifier key code
 
 `[KEYBINDINGS]`
-* `UseModKeys`     = 0/1 - on/off. replacing function keys
+* `UseModKeys`     = 0/1 - on/off replacing function keys
 * `KeyMenuHelp`    = 0x70 - key code for the "Keyboard" menu (F1 by default)
 * `KeyMenuRating`  = 0x71 - key code for the "Rating" menu (F2 by default)
 * `KeyMenuInfo`    = 0x72 - key code for the "Info" menu (F3 by default)

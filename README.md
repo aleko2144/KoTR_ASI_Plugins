@@ -4,7 +4,9 @@ Hard Truck 2 / King of the Road v8.2 asi plugins. These plugins were written in 
 List of plugins:
 * KoTR_ClassicRainGlassEffect - restores effects of rain drops on windscreen from HTruck v4.0 - 5.5;
 * KoTR_ClutchMod - adds clutch pedal and gearbox support;
+* KoTR_GUI_mod - replaces default top UI panel with new one;
 * KoTR_HelicoptersMod - allows to change the positions of helicopters in the game and add new ones;
+* KoTR_InputMod - allows to use the mouse to control the steering and adds the ability to remap the built-in control keys
 * KoTR_ModuleLoader - allows to load custom B3D, RES, OVL and WAV files into game;
 * KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
 * KoTR_VehicleListMod - allows to edit the in-game list of cars for ordering by CBradio;
