@@ -1,2 +1,16 @@
 # KoTR_ASI_Plugins
-King of the Road v8.2 asi plugins
+Hard Truck 2 / King of the Road v8.2 asi plugins. These plugins were written in 2019-2025, the code is terrible, but they are published as is.
+
+List of plugins:
+* KoTR_ClassicRainGlassEffect - restores effects of rain drops on windscreen from HTruck v4.0 - 5.5;
+* KoTR_ClutchMod - adds clutch pedal and gearbox support;
+* KoTR_ModuleLoader - allows to load custom B3D, RES, OVL and WAV files into game;
+* KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
+* KoTR_VehicleListMod - allows to edit the in-game list of cars for ordering by CBradio;
+* KoTR_ZoomMod - allows to edit the FOV of interiors (not only the camera, but also the interiors meshes).
+
+Sources:
+* "CPatch.h" file is from [D2DInputWrapper](https://github.com/Voron295/rignroll-dinput-wrapper) by [Voron295](https://github.com/Voron295)
+* Files "detours.h", "detours.lib", "detver.h", "sigscan.h" [are from Detour](https://github.com/Zer0Mem0ry/Detour) by [Zer0Mem0ry](https://github.com/Zer0Mem0ry)
+* Some functions have been fixed by [CookiePLMonster](https://github.com/CookiePLMonster)
+* Some old plugins were written with the support of [Duude92](https://github.com/Duude92), for which thanks to him
