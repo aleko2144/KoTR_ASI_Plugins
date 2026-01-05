@@ -16,9 +16,9 @@ List of plugins:
 * KoTR_ZoomMod - allows to edit the FOV of interiors (not only the camera, but also the interior meshes).
 
 Sources:
-* "CPatch.h" file is from [D2DInputWrapper](https://github.com/Voron295/rignroll-dinput-wrapper) by [Voron295](https://github.com/Voron295)
-* Files "detours.h", "detours.lib", "detver.h", "sigscan.h" [are from Detour](https://github.com/Zer0Mem0ry/Detour) by [Zer0Mem0ry](https://github.com/Zer0Mem0ry)
-* Some functions have been fixed by [CookiePLMonster](https://github.com/CookiePLMonster)
-* Some old plugins were written with the support of [Duude92](https://github.com/Duude92), for which thanks to him
+* "CPatch.h" file is from [D2DInputWrapper](https://github.com/Voron295/rignroll-dinput-wrapper) by [Voron295](https://github.com/Voron295);
+* Files "detours.h", "detours.lib", "detver.h", "sigscan.h" [are from Detour](https://github.com/Zer0Mem0ry/Detour) by [Zer0Mem0ry](https://github.com/Zer0Mem0ry);
+* Some functions have been fixed by [CookiePLMonster](https://github.com/CookiePLMonster);
+* Some old plugins were written with the support of [Duude92](https://github.com/Duude92), for which thanks to him.
 
 Other plugins for the game are published here: https://github.com/aleko2144/KoTR_Modern_Patch
