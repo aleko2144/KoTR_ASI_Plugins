@@ -9,6 +9,7 @@ List of plugins:
 * KoTR_InputMod - allows to use the mouse to control the steering and adds the ability to remap the built-in control keys
 * KoTR_ModuleLoader - allows to load custom B3D, RES, OVL and WAV files into game;
 * KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
+* KoTR_SoundMod - adds new engine sounds and sound effects;
 * KoTR_VehicleListMod - allows to edit the in-game list of cars for ordering by CBradio;
 * KoTR_ZoomMod - allows to edit the FOV of interiors (not only the camera, but also the interiors meshes).
 
