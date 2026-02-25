@@ -1,5 +1,5 @@
 # KoTR_ASI_Plugins
-Hard Truck 2 / King of the Road v8.2 asi plugins. These plugins were written in 2019-2025, the code is terrible, but they are published as is.
+Hard Truck 2 / King of the Road v8.2 asi plugins. These plugins were written in 2019-2025.
 
 List of plugins:
 * KoTR_ClassicRainGlassEffect - restores effects of rain drops on windscreen from HTruck v4.0 - 5.5;
