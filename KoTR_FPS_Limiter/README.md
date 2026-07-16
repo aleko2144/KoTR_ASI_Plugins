@@ -1,3 +1,3 @@
 ## KoTR FPS Limiter (16.07.2026)
-Version 1.00</br>
-This plugins limites game FPS. Warning! This project contains AI-generated code.
+Version 0.01</br>
+This plugin limites game FPS. Warning! This project contains AI-generated code.
