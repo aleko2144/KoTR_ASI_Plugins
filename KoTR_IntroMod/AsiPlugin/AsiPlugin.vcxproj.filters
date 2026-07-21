@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Utils">
+      <UniqueIdentifier>{66327cb5-fd8a-4c7f-95bd-3814478bb665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Hooks">
+      <UniqueIdentifier>{3ee62376-8250-43b6-a6a6-5401efddfbf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Utils\ModUtils">
+      <UniqueIdentifier>{7491e978-150f-4d03-9591-603200c03ba7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sources\dllmain.h">
+      <Filter>Файлы исходного кода</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\CPatch.h">
+      <Filter>Файлы исходного кода\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ExeUtils.h">
+      <Filter>Файлы исходного кода\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Hooks\IntroVideo.h">
+      <Filter>Файлы исходного кода\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\Facade.hpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\HookEach.hpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\HookInit.hpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\LateStaticInit.h">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\MemoryMgr.h">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\ModuleList.hpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\Patterns.h">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\ScopedUnprotect.hpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\Utils\ModUtils\Trampoline.h">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sources\dllmain.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\Utils\ExeUtils.cpp">
+      <Filter>Файлы исходного кода\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\Hooks\IntroVideo.cpp">
+      <Filter>Файлы исходного кода\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\Utils\ModUtils\Patterns.cpp">
+      <Filter>Файлы исходного кода\Utils\ModUtils</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
