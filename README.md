@@ -15,6 +15,7 @@ List of plugins:
 * KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
 * KoTR_SirenMod - allows to turn on/off flashing lights and siren on cars;
 * KoTR_SoundMod - adds new engine sounds and sound effects;
+* KoTR_SpeedFineMod - makes the police/radar speeding tolerance configurable;
 * KoTR_TabloMod - allows to hide the top panel of the interface;
 * KoTR_UpgradesMod - adds new gearboxes when an improved engine installed at a service station;
 * KoTR_VehicleListMod - allows to edit the in-game list of cars for ordering by CBradio;
