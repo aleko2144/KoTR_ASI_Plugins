@@ -8,7 +8,8 @@ List of plugins:
 * KoTR_FPS_Limiter - allows to limit game framerate;
 * KoTR_GUI_mod - replaces the default top UI panel with a new one;
 * KoTR_HelicoptersMod - allows to change the positions of helicopters in the game and add new ones;
-* KoTR_InputMod - allows to use the mouse to control the steering and adds the ability to remap the built-in control keys
+* KoTR_InputMod - allows to use the mouse to control the steering and adds the ability to remap the built-in control keys;
+* KoTR_IntroMod - restores the display of the intro video when starting a new game;
 * KoTR_ModuleLoader - allows to load custom B3D, RES, OVL and WAV files into game;
 * KoTR_RainMod - allows to enable rendering of falling raindrops when interior view enabled;
 * KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
