@@ -20,8 +20,7 @@ void __cdecl OnSetupSideOffsetsCall(int a1) {
 	if (is_not_loading_savegame && is_not_starting_multipl && is_not_playing_record)
 		a1 = 1;
 
-	using namespace std;
-
+	//using namespace std;
 	//cout << "is_not_loading_savegame=" << dec << is_not_loading_savegame << endl;
 	//cout << "is_not_starting_multipl=" << dec << is_not_starting_multipl << endl;
 	//cout << "is_not_playing_record  =" << dec << is_not_playing_record << endl;
