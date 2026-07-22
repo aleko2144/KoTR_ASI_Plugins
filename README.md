@@ -1,9 +1,10 @@
 # KoTR_ASI_Plugins
-Hard Truck 2 / King of the Road v8.2 asi plugins. These plugins were written in 2019-2025.
+Hard Truck 2 / King of the Road v8.2 asi plugins.
 
 List of plugins:
-* KoTR_ClassicRainGlassEffect - restores effects of rain drops on windscreen from HTruck 2 v4.0 - 5.5;
+* KoTR_CabinCamMod - restores interior camera control via mouse from HTruck2 v4.0 - 5.8;
 * KoTR_ClassicPhysics - adds "classic physics", like it was in HTruck 2 v4.0 - 5.8;
+* KoTR_ClassicRainGlassEffect - restores effects of rain drops on windscreen from HTruck 2 v4.0 - 5.5;
 * KoTR_ClutchMod - adds clutch pedal and gearbox support;
 * KoTR_FPS_Limiter - allows to limit game framerate;
 * KoTR_GUI_mod - replaces the default top UI panel with a new one;
@@ -27,4 +28,4 @@ Sources:
 * [ModUtils](https://github.com/CookiePLMonster/ModUtils) and some plugins fuctions are fixed by [CookiePLMonster](https://github.com/CookiePLMonster);
 * Some old plugins were written with the support of [Duude92](https://github.com/Duude92), for which thanks to him.
 
-Other plugins for the game are published here: https://github.com/aleko2144/KoTR_Modern_Patch
+Some other plugins for the game are published here: https://github.com/aleko2144/KoTR_Modern_Patch/tree/1.00
