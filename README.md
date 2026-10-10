@@ -11,7 +11,7 @@ List of plugins:
 * KoTR_HelicoptersMod - allows to change the positions of helicopters in the game and add new ones;
 * KoTR_InputMod - allows to use the mouse to control the steering and adds the ability to remap the built-in control keys;
 * KoTR_IntroMod - restores the display of the intro video when starting a new game;
-* KoTR_ModuleLoader - allows to load custom B3D, RES, OVL and WAV files into game;
+* KoTR_ResourceLoader - allows to load custom B3D, RES, OVL and WAV files into game ("KoTR_ModuleLoader" is outdated version of plugin);
 * KoTR_RainMod - allows to enable rendering of falling raindrops when interior view enabled;
 * KoTR_RoadtrainFunc - copy of the semi-trailer motion processing game function;
 * KoTR_SirenMod - allows to turn on/off flashing lights and siren on cars;
