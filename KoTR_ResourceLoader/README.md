@@ -40,7 +40,7 @@ name = RES file name (e.g. "vehicle_msk")
 ```
 This section is needed to load res files that are not related to any b3d - for example, separate sets of msk-textures for in-game menus.
 
-Note: The file loaded from the [RESOURCE] section must have a name like <name>16.res. For example, if "vehicle_msk" is specified, the file must be named "vehicle_msk16.res". This is a game requirement.
+Note: The file loaded from the [RESOURCE] section must have a name like "name16.res". For example, if "vehicle_msk" is specified, the file must be named "vehicle_msk16.res". This is a game requirement.
 
 #### WAV load section:
 ```
